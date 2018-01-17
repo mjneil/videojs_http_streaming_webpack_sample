@@ -11,8 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@videojs/http-streaming": "^0.3.0",
-    "video.js": "^6.6.0",
-    "webworkify-webpack-dropin": "^1.1.9"
+    "video.js": "^6.6.0"
   },
   "devDependencies": {
     "webpack": "^3.10.0"

@@ -3,10 +3,5 @@ module.exports = {
   output: {
     path: __dirname,
     filename: 'bundle.js'
-  },
-  resolve: {
-    alias: {
-      webworkify:'webworkify-webpack-dropin'
-    }
   }
 };
